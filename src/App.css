@@ -1,0 +1,105 @@
+.menu-container {
+  max-width: 650px;
+}
+
+.menu-list-box h2 {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.menu-list-box ul {
+  padding-left: 24px;
+  margin: 12px 0 24px;
+}
+
+.menu-item {
+  margin-bottom: 10px;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.menu-info {
+  vertical-align: middle;
+}
+
+.menu-type {
+  color: #475569;
+  font-size: 16px;
+}
+
+.badge-img {
+  vertical-align: middle;
+  margin-left: 6px;
+  width: 22px;
+  height: 22px;
+}
+
+.edit-btn,
+.del-btn,
+.submit-btn,
+.cancel-btn {
+  vertical-align: middle;
+  margin-left: 6px;
+  padding: 2px 8px;
+  font-size: 14px;
+  border: 1px solid #94a3b8;
+  border-radius: 4px;
+  background-color: #f1f5f9;
+  cursor: pointer;
+}
+
+.edit-btn:hover {
+  background-color: #dbeafe;
+  border-color: #3b82f6;
+  color: #1d4ed8;
+}
+
+.del-btn:hover {
+  background-color: #fee2e2;
+  border-color: #ef4444;
+  color: #b91c1c;
+}
+
+.menu-form-section {
+  margin-top: 20px;
+  padding-top: 12px;
+  border-top: 1px dashed #cbd5e1;
+}
+
+.menu-form-section h3 {
+  margin: 0 0 10px;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.menu-form .form-field {
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.menu-form input,
+.menu-form select {
+  padding: 3px 6px;
+  font-size: 15px;
+  border: 1px solid #94a3b8;
+  border-radius: 3px;
+}
+
+.form-actions {
+  margin-top: 8px;
+}
+
+.submit-btn {
+  margin-left: 0;
+  padding: 4px 12px;
+  font-size: 15px;
+}
+
+.submit-btn:hover {
+  background-color: #e2e8f0;
+}
+
+.cancel-btn {
+  padding: 4px 12px;
+  font-size: 15px;
+}
